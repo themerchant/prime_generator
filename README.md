@@ -1,0 +1,1 @@
+Simple prime number generator. Built as Javascript practice.
